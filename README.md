@@ -4,17 +4,57 @@ Willkommen im VIBE Coding Workshop Begleit-Repository! Dies ist dein Referenz-Le
 
 ## Was ist VIBE Coding?
 
-VIBE Coding (oder "mit Code vibing") ist ein neuer Ansatz zur Software-Entwicklung, bei dem du KI-Tools verwendest, um Websites, Apps und Software zu erstellen, ohne traditionelle Programmierkenntnisse zu benötigen. Anstatt Code Zeile für Zeile zu schreiben, beschreibst du, was du bauen möchtest, und KI-Tools helfen dir dabei, es zu erstellen.
+VIBE Coding ist Software durch natürliche Sprache zu entwickeln. Statt Code zu schreiben, beschreibt man, was man möchte und die KI übersetzt die Intention in "funktionierenden" Code.
+
+> **Andrej Karpathy** definiert VIBE Coding als: "There's a new kind of coding I call 'vibe coding', where you fully give in to the vibes, embrace exponentials, and forget that the code even exists. It's possible because the LLMs are getting too good."
+
+**Der Unterschied:** Statt Wochen mit dem Erlernen von Programmiersprachen zu verbringen, kannst Du sofort mit der Umsetzung Deiner Ideen beginnen. Ideen sind das neue Gold!
+
+## Warum VIBE Coding lernen?
+
+### KI kann Coden
+Die Qualität der KI-Systeme hat in den letzten sechs Monaten ein Niveau erreicht, das es ermöglicht Software selbstständig zu erstellen.
+
+### Für jeden zugänglich
+Sowohl Anfänger ohne Vorkenntnisse als auch erfahrene Profis profitieren gleichermassen.
+
+### Grenzenlose Kreativität
+Konzentriere Dich auf Problemlösung und Innovation statt auf Syntax und Details.
+
+### 🥳🎉 Weil es Spass macht! 🎉🥳
+Und ab und zu auch nicht 😉
 
 ## Workshop-Ziele
 
 Dieser Workshop hilft dir dabei:
 
-- **KI-gestützte Entwicklung erleben** - Lerne, wie du Tools wie Lovable und Bolt verwendest, um Software zu bauen
+- **KI-gestützte Entwicklung erleben** - Lerne, wie du Tools wie Bolt und Lovable verwendest, um Software zu bauen
 - **Ideen in Software verwandeln** - Transformiere Konzepte in deinem Kopf in funktionierende Anwendungen
 - **Mit Vertrauen bauen** - Erstelle Tools für den persönlichen Gebrauch oder Geschäftsideen
-- **Die Grundlagen verstehen** - Lerne wichtige Konzepte wie Git und Projektmanagement kennen
+- **Die Grundlagen verstehen** - Lerne wichtige Konzepte wie Git, APIs und Sicherheit kennen
 - **Deine Reise beginnen** - Erhalte das Fundament, um nach dem Workshop weiterzubauen
+
+## VIBE Coding privat nutzen: Kreative Projekte leicht gemacht
+
+### 1. Eigene Ideen verwirklichen
+Persönliche Webseiten, Apps oder Tools entwickeln – genau nach Deinen Vorstellungen, ohne teure Entwickler beauftragen zu müssen.
+
+### 2. Lernspiele für Kinder
+Programmiere interaktive Spiele, die Ihren Kindern spielerisch Wissen vermitteln, von Mathematik über Sprachen bis zu Naturwissenschaften.
+
+### 3. Hobby-Projekte realisieren
+Von der Familien-Rezeptdatenbank bis zur persönlichen Fitness-App – setze kreative Projekte um, die Deinen Alltag bereichern.
+
+## VIBE Coding im Business: Effizienz und Innovation
+
+### Prozesse automatisieren
+Entwickle massgeschneiderte Lösungen für wiederkehrende Aufgaben und steigern Sie die Produktivität Ihres Teams.
+
+### Prototypen entwickeln
+Testen Sie neue Produktideen schnell und kostengünstig, bevor Sie in grosse Entwicklungsprojekte investieren.
+
+### Kosten sparen
+Bauen Sie Apps und Tools intern, statt teure Lizenzgebühren zu zahlen und behalten Sie die volle Kontrolle über Ihre Software.
 
 ## Für wen ist das?
 
@@ -44,6 +84,35 @@ Dieses Repository enthält Arbeitsblätter und Leitfäden, die du während und n
 - **[AI Prompt Best Practices](worksheets/Prompting/3-ai-prompt-best-practices.md)** - 12 goldene Regeln für effektive Prompts
 - **[ChatGPT Clone Projekt](worksheets/Prompting/4-api-chatgpt-clone.md)** - Schritt-für-Schritt Anleitung für ein vollständiges Projekt
 
+## Workshop-Übungen
+
+### Übung 1: Todo App
+Erstelle deine erste App mit Bolt.new - eine einfache Todo-Anwendung mit allen Grundfunktionen.
+
+### Übung 2: KI Prompting
+Lerne die Kunst des effektiven Promptings mit strukturierten Prompts und iterativen Verbesserungen.
+
+### Übung 3: Design Inspiration
+Nutze Referenzbilder, Screenshots oder Figma-Designs, um schöne UIs zu erstellen.
+
+### Übung 4: API Integration
+Integriere externe APIs in deine App und lerne, wie du Daten von verschiedenen Services nutzt.
+
+## Der VIBE Coding Prozess
+
+| Prozessschritt | Beschreibung |
+|---|---|
+| **Planen** | Die nächste Funktion oder Korrektur planen und beschreiben. |
+| **Anweisen** | Der KI gezielte, kontextbezogene Anweisungen geben. |
+| **Testen** | Den Code ausführen – funktioniert er? |
+| **Debuggen** | Fehler überprüfen, Hinweise sammeln und Überarbeitungen anweisen. |
+| **Sichern** | Fortschritte speichern, wenn sie stabil sind. |
+| **Wiederholen** | Mit der nächsten Iteration fortfahren. |
+
+> **Der Unterschied zwischen einem guten und einem schlechten Vibe Coder...**  
+> Er/Sie weiss, wann man zurückgehen (neu prompten) oder wann man durchziehen sollte.  
+> *Konfuzius 551 v. Chr.*
+
 ### Während des Workshops
 
 Nutze diese Materialien als schnelle Referenz, wenn du eine Erinnerung an die Konzepte brauchst, die wir behandelt haben.
@@ -55,10 +124,10 @@ Komm zurück zu diesen Leitfäden, wann immer du an deinen Projekten arbeitest u
 ## Tools, die wir verwenden
 
 ### Haupt-Entwicklungstools
+- **Bolt** - KI-gestützte App-Entwicklung (Haupttool für den Workshop)
 - **Lovable** - KI-gestütztes Web-Entwicklungstool
-- **Bolt** - KI-Coding-Assistent
+- **Cursor** - KI-Code-Editor mit Claude Integration
 - **Git/GitHub** - Versionskontrolle zur Verfolgung deines Projektfortschritts
-- **Claude Code** - KI-Assistent für Coding-Aufgaben
 
 ### Diktier-Apps
 - **[Monologue](https://monologue.to/?ref=KIUVNUN)** - Diktier-App für Gedanken-zu-Text
@@ -92,12 +161,74 @@ Komm zurück zu diesen Leitfäden, wann immer du an deinen Projekten arbeitest u
 - **[ElevenLabs](https://elevenlabs.io/)** - Professionelle Text-zu-Sprache API
 - **[ScrapeCreators](https://app.scrapecreators.com/)** - Web-Scraping API
 
+## Software-Architektur: Die Grundbausteine
+
+Jede Anwendung besteht aus verschiedenen Komponenten, die zusammenarbeiten:
+
+### Frontend (Gastraum)
+Was Sie sehen und womit Sie interagieren – die Benutzeroberfläche im Browser oder in der App
+
+### Backend (Küche)
+Die Logik im Hintergrund – verarbeitet Daten, führt Berechnungen aus, steuert Funktionen
+
+### Datenbank (Lager)
+Speichert Informationen dauerhaft – Benutzerprofile, Posts, Einkaufswagen, etc.
+
+### API (Drive Through)
+Das Fenster zwischen der Aussenwelt und der Applikations-Logik
+
+## APIs: die Superpower des Internets
+
+### 1. Plattformen finden
+Suche nach Anbietern wie OpenAI, Fal oder Rapid API, die die benötigten Daten oder Services bereitstellen.
+
+### 2. API Key sicher handhaben
+Besorge dir den API Key und stellen Sie sicher, dass er niemals geteilt oder direkt im Code gespeichert wird.
+
+### 3. Dokumentation studieren oder wenn möglich Playground verwenden um zu testen
+Verstehe die Funktionsweise, Endpunkte und Parameter, indem Sie die API-Dokumentation gründlich lesen oder im Playground testen.
+
+### 4. Dokumentation an KI übergeben
+Bereiten Sie die Dokumentation vor, um sie einer KI für die automatische Verarbeitung oder Analyse zur Verfügung zu stellen.
+
 ## Erste Schritte
 
 1. Stelle sicher, dass du ein GitHub-Konto hast
 2. Verbinde deine KI-Tools (Lovable, Bolt) mit GitHub
 3. Beginne zu bauen und zu experimentieren!
 4. Nutze diese Leitfäden als Referenz
+
+## Sicherheitsfallen vermeiden
+
+Beim Erstellen und Veröffentlichen von Apps mit KI-Tools
+
+### Frontend-Sicherheit: Niemals Client-Code vertrauen
+
+Alle React-Code läuft im Browser des Nutzers und ist öffentlich einsehbar. Nutzer können jeden Frontend-Code inspizieren, ändern oder umgehen.
+
+#### Keine Geheimnisse im Frontend
+API-Schlüssel, Passwörter oder sensible Konfigurationen niemals im Frontend-Code speichern - immer in .env Dateien oder noch besser Secrets
+
+#### Keine Frontend-Validierung
+Client-seitige Validierung kann umgangen werden - immer auf der Server-Seite validieren
+
+#### Frontend-Daten nicht vertrauen
+Alle Daten vom Frontend müssen auf der Server-Seite überprüft werden
+
+### Backend & Datenbank: Geschäftslogik serverseitig ausführen
+
+#### Backend-Funktionen als API-Schicht
+Serverlose Funktionen sollten alle Geschäftslogik, Validierung und sensible Operationen enthalten:
+- Authentifizierung und Autorisierung
+- Datenvalidierung und -bereinigung
+- Geschäftslogik und Workflows
+- Integration mit externen Diensten
+- Verarbeitung sensibler Daten
+
+#### Row Level Security (RLS)
+Überprüfen Sie RLS-Richtlinien frühzeitig - es ist viel einfacher, sie anzupassen, wenn Ihre App neu ist.
+
+Einfach ist sicher: Halten Sie RLS-Richtlinien einfach und fokussiert auf Datenzugriff, nicht auf komplexe Geschäftslogik.
 
 ## Sicherheits-Prompts für Bolt
 
@@ -106,6 +237,70 @@ Für fortgeschrittene Sicherheit in deinen Bolt-Apps findest du spezifische Prom
 - **RLS-Richtlinien (Row Level Security)** - Datenschutz auf Zeilenebene
 - **Edge Functions** - Sichere Backend-Logik
 - **API-Schlüssel-Sicherheit** - Sichere Integration externer Services
+
+### Praktische Prompts für Backend-Sicherheit
+
+#### 01 Backend-Funktionen erstellen
+"Erstelle eine Backend-Funktion für Benutzerregistrierung mit ordnungsgemässer Validierung und Sicherheitsprüfungen"
+
+#### 02 Logik verschieben
+"Verschiebe die Zahlungsabwicklungslogik vom Frontend zur sicheren Backend-Funktion"
+
+#### 03 RLS überprüfen
+"Überprüfe RLS-Richtlinien, um sicherzustellen, dass Benutzer nur auf ihre eigenen Daten zugreifen können"
+
+#### 04 Zugriff einschränken
+"Behebe zu freizügigen Zugriff - Benutzer sollten nur eigene und öffentliche Beiträge sehen"
+
+### Sicherheits-Checkliste
+- Keine Geheimnisse im Frontend-Code
+- Alle Validierung in Backend-Funktionen
+- RLS-Richtlinien implementiert und getestet
+- Authentifizierung mit sicheren Methoden
+- Regelmässige Sicherheitsüberprüfungen durchführen
+
+## App Deployment
+
+### Wie können Bolt Applikationen aufgeschaltet werden?
+
+**Plattform-Optionen:**
+- **bolt** - Abhängig von Bolt Account bei Anbietern
+- **netlify** - Maximale Flexibilität  
+- **Vercel**
+- **Railway** 
+- **Heroku**
+- **GitHub** - Zentrale Verbindung
+
+**Custom Domains:** Können auf jeder Plattform verfügbar werden
+
+### Deployment-Workflow
+1. **GitHub** - Zentrale Verbindung für alle Plattformen
+2. **Plattform wählen** - Je nach Anforderungen (netlify, Vercel, Railway, Heroku)
+3. **Bolt Integration** - Automatische Deployments über GitHub
+4. **Custom Domain** - Optional auf jeder Plattform verfügbar
+
+## Die Kunst des Promptings
+
+Gute Prompts sind der Schlüssel zu grossartigen Ergebnissen. Je klarer und strukturierter Deine Anfrage, desto genauer wird das Ergebnis.
+
+### 1. Idee definieren
+Was willst Du erreichen? Beschreibe das grosse Bild.
+
+### 2. In Tasks zerlegen
+Breche die Idee in kleine, klare Schritte herunter. Wie kleiner die Task desto grösser die Erfolgschance. Context Bloat vermeiden.
+
+### 3. Tasks lösen
+Bearbeite jeden Task einzeln mit fokussierten Prompts.
+
+### Die Kunst des Promptings - Best Practices
+
+- Sei spezifisch und beschreibe Details wie Funktionen, Design und Technologien.
+- Teile komplexe Anforderungen in kleinere, handhabbare Prompts auf.
+- Iteriere und verfeinere deine Prompts basierend auf den Ergebnissen.
+- Verwende Fachbegriffe, wenn du mit der Domäne vertraut bist.
+- Gib Feedback zur KI-Ausgabe, um die nächste Iteration zu verbessern.
+
+Verwende KI um dir bei den Prompts zu helfen oder verwende den Plan Modus in Bolt.
 
 ## Prompting-Best-Practices
 
