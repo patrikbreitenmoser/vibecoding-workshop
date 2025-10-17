@@ -81,7 +81,7 @@ Komm zurück zu diesen Leitfäden, wann immer du an deinen Projekten arbeitest u
 - **[Fal.ai](https://fal.ai/)** - Hochmoderne KI-API für Bild- und Videogenerierung mit verschiedenen Modellen wie Stable Diffusion und DALL-E
 
 #### API-Marktplatz
-- **[RapidAPI](https://rapidapi.com/)** - Größter API-Marktplatz der Welt mit über 10.000 APIs
+- **[RapidAPI](https://rapidapi.com/)** - Grösster API-Marktplatz der Welt mit über 10.000 APIs
 
 #### Sprachmodelle und KI-APIs
 - **[OpenAI](https://platform.openai.com/)** - Führende Plattform für KI-APIs mit GPT-Modellen, DALL-E und Whisper
@@ -128,6 +128,29 @@ Lerne die 12 goldenen Regeln für effektive KI-Prompts:
 
 Denk daran: Es gibt keine "dummen Fragen" im VIBE Coding. Wenn etwas keinen Sinn ergibt, frag einfach! Der ganze Punkt ist, Software-Entwicklung für jeden zugänglich zu machen.
 
+Nach dem Kurs stehe ich dir für Fragen zur Verfügung:
+
+**Patrik Breitenmoser**  
+E-Mail: patrik@whyai.ch  
+[LinkedIn](https://www.linkedin.com/in/patrik-breitenmoser/)  
+[www.whyai.ch](https://www.whyai.ch/de-ch)
+
 ---
 
-**Viel Spaß beim Bauen!** Der beste Weg zu lernen ist, anzufangen zu erstellen. Nimm eine Idee und fang an, damit zu vibieren.
+**Meine Dienstleistungen im Bereich Künstliche Intelligenz (KI):**
+
+- **KI-Strategieberatung:** Unterstützung von Unternehmen bei der Entwicklung und Umsetzung von nachhaltigen KI-Strategien.
+- **Workshops & Schulungen:** Individuelle und praxisnahe Seminare, um Teams im Umgang mit KI fit zu machen – von Grundlagen bis zu fortgeschrittenen Themen.
+- **KI-Lösungen & Automation:** Entwicklung massgeschneiderter KI-Lösungen zur Automatisierung und Optimierung von Geschäftsprozessen.
+- **Use Case Identifikation:** Systematische Identifizierung und Priorisierung konkreter KI-Anwendungsfälle, die echten Mehrwert bieten.
+- **Prototyping & MVP-Entwicklung:** Schnelle Entwicklung von Prototypen und Minimum Viable Products (MVPs), um Ideen zu testen und in die Umsetzung zu bringen.
+- **No-Code & Low-Code KI:** Einfache Integration von KI in bestehende Systeme mit Fokus auf schnelle und kosteneffiziente Lösungen – auch ohne tiefe Programmierkenntnisse.
+
+Mehr Informationen und individuelle Angebote findest du auf meiner Webseite:  
+👉 [www.whyai.ch/de-ch](https://www.whyai.ch/de-ch)
+
+Ich freue mich, dich und dein Unternehmen bei eurem KI-Abenteuer zu begleiten!
+
+**Viel Spass beim Bauen!** Der beste Weg zu lernen ist, anzufangen zu erstellen. Nimm eine Idee und fang an, damit zu vibieren.
+
+

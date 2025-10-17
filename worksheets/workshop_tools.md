@@ -10,6 +10,7 @@ Hier ist eine Liste aller Tools, die wir in diesem Workshop besprechen:
 - [mvp.new](https://mvp.new/): Ein KI-gestütztes Tool zur Planung von Minimum Viable Products (MVPs). Hilft dabei, Projektideen zu strukturieren und erste Schritte zu definieren.
 
 ## Design Inspiration
+- [ui.aceternity.com/components](https://ui.aceternity.com/components): Spezialisierte Sammlung moderner, kopierbarer UI-Komponenten mit Code-Beispielen für React, Vue und andere Frameworks.
 - [Dribbble](https://dribbble.com/): Führende Plattform für UI/UX-Design-Inspiration mit Millionen von Design-Beispielen, Mockups und kreativen Projekten von Designern weltweit.
 - [Behance](https://www.behance.net/): Adobe's kreative Plattform mit umfassenden Design-Portfolios, Case Studies und detaillierten Projektpräsentationen für umfassende Design-Inspiration.
 - [21st.dev/community/components](https://21st.dev/community/components): Spezialisierte Sammlung moderner, kopierbarer UI-Komponenten mit Code-Beispielen für React, Vue und andere Frameworks.
