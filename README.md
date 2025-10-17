@@ -4,6 +4,8 @@ Willkommen im VIBE Coding Workshop Begleit-Repository! Dies ist dein Referenz-Le
 
 ## Was ist VIBE Coding?
 
+
+
 VIBE Coding ist Software durch natürliche Sprache zu entwickeln. Statt Code zu schreiben, beschreibt man, was man möchte und die KI übersetzt die Intention in "funktionierenden" Code.
 
 > **Andrej Karpathy** definiert VIBE Coding als: "There's a new kind of coding I call 'vibe coding', where you fully give in to the vibes, embrace exponentials, and forget that the code even exists. It's possible because the LLMs are getting too good."
